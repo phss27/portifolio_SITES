@@ -1,0 +1,73 @@
+# Translation of Plugins - Rename wp-login.php - Development (trunk) in Portuguese (Portugal)
+# This file is distributed under the same license as the Plugins - Rename wp-login.php - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-03 11:53:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt\n"
+"Project-Id-Version: Plugins - Rename wp-login.php - Development (trunk)\n"
+
+#: rename-wp-login.php:139 rename-wp-login.php:172
+msgctxt "Text string for settings page"
+msgid "Rename wp-login.php"
+msgstr "Rename wp-login.php"
+
+#. Author URI of the plugin
+msgid "https://ellavandurpe.com"
+msgstr "https://ellavandurpe.com"
+
+#. Author of the plugin
+msgid "Ella van Durpe"
+msgstr "Ella van Durpe"
+
+#: rename-wp-login.php:249 rename-wp-login.php:255
+msgid "Settings"
+msgstr "Opções"
+
+#: rename-wp-login.php:241
+msgid "Your login page is now here: %s. Bookmark this page!"
+msgstr "A sua página de início de sessão está agora aqui: %s. Guarde esta página nos marcadores!"
+
+#: rename-wp-login.php:221
+msgid "Network Settings"
+msgstr "Opções da rede"
+
+#: rename-wp-login.php:219
+msgid "To set a networkwide default, go to %s."
+msgstr "Para definir por omissão para a rede, vá a %s."
+
+#: rename-wp-login.php:179
+msgid "Login url"
+msgstr "URL para iniciar sessão"
+
+#: rename-wp-login.php:147
+msgid "Networkwide default"
+msgstr "Por omissão na rede"
+
+#: rename-wp-login.php:142
+msgid "This option allows you to set a networkwide default, which can be overridden by individual sites. Simply go to to the site’s permalink settings to change the url."
+msgstr "Esta opção permite definir por omissão para toda a rede, que depois pode ser substituído individualmente em cada site. Pode alterar o URL de cada site na respectiva página de opções das ligações permanentes."
+
+#. Plugin Name of the plugin
+msgid "Rename wp-login.php"
+msgstr "Rename wp-login.php"
+
+#. Description of the plugin
+msgid "Change wp-login.php to whatever you want."
+msgstr "Altere o wp-login.php para o que quiser."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/rename-wp-login/"
+msgstr "https://wordpress.org/plugins/rename-wp-login/"
+
+#: rename-wp-login.php:302
+msgid "You must log in to access the admin area."
+msgstr "Tem que iniciar a sessão para aceder ao painel de administração."
+
+#: rename-wp-login.php:274
+msgid "This feature is not enabled."
+msgstr "Esta funcionalidade não está activada."
